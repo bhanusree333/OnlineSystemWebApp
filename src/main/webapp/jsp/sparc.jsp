@@ -16,7 +16,6 @@
 <script src="../js/sparc_programs.js" type="text/javascript"></script>
 <script src="../js/script.js" type="text/javascript"></script>
 <script src="../js/lessonDataStructureJSON.js"></script>
-//SREE
 <title>Online SPARC</title>
 <style type="text/css" media="screen">
 #editor {
